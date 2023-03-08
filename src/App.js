@@ -1,10 +1,10 @@
 import './App.css';
-import TypeEffect from './components/typeEffect';
+import UnderConstruction from './components/underConstruction';
 
 function App() {
   return (
     <div className="App">
-      <TypeEffect />
+      <UnderConstruction />
     </div>
   );
 }

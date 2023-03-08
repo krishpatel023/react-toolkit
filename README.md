@@ -1,6 +1,7 @@
 # Import the following libraries.
-* npm i typewriter-effect
+* none
 
 # Extract pages.
-* src/components/typeEffect.js
-* src/styles/typeEffect.css
+* src/components/underConstruction.js
+* src/styles/underConstruction.css
+* src/images/under-constuction.png
