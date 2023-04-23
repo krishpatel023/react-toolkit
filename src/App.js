@@ -1,10 +1,10 @@
 import './App.css';
-import ImageUpload from './components/ImageUpload';
+import Login from './components/Login';
 
 function App() {
   return (
     <div className="App">
-      <ImageUpload />
+      <Login/>
     </div>
   );
 }
