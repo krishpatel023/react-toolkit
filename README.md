@@ -3,5 +3,5 @@
 * react-router-dom
 
 # Extract pages.
-* src/components/Login.js
-* src/styles/Login.css
+* src/components/Register.js
+* src/styles/Register.css
