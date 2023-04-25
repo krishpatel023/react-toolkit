@@ -1,10 +1,10 @@
 import './App.css';
-import Register from './components/Register';
+import AudioPlayer from './pages/AudioPlayer';
 
 function App() {
   return (
     <div className="App">
-      <Register/>
+      <AudioPlayer/>
     </div>
   );
 }
